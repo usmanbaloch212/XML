@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bag>
+<bag1 category="sports bag">
+<bagcolor></bagcolor>
+<bagsize></bagsize>
+<bagprice></bagprice>
+</bag1>
+<bag2 category="picnic bag">
+<bagcolor></bagcolor>
+<bagsize></bagsize>
+<bagprice></bagprice>
+</bag2>
+<bag3 category="school bag">
+<bagcolor></bagcolor>
+<bagsize></bagsize>
+<bagprice></bagprice>
+</bag3>
+</bag>
